@@ -6,7 +6,7 @@ This Privacy Policy describes how **Absolute** ("we", "our", "us") collects, use
 
 ### User Data
 - **User IDs**: We collect your Discord user ID to provide moderation and utility functions.
-- **Messages**: We may collect and process messages for moderation purposes, such as filtering spam or inappropriate content.
+- **Messages**: We may collect and process messages for moderation purposes, such as filtering spam or inappropriate content. Please note that when a user run a command and any unexpected error occur that the bot fails to identify we store this message's content, user'id and server name along with server invite link, this data is only used for improvement and only selected few have access to this data.
 
 ### Server Data
 - **Server IDs and Settings**: We collect information about your Discord server, including server ID, configuration settings, and designated bot channels, to provide and improve our Service.
@@ -14,7 +14,7 @@ This Privacy Policy describes how **Absolute** ("we", "our", "us") collects, use
 ## How We Use the Information
 
 - **Provide Services**: To operate and maintain the bot's features, including moderation, management, and utility functions.
-- **Improve Services**: To understand how users interact with the bot and improve its functionality, Please note that when a user run a command and any unexpected error occur that the bot fails to identify we store this message's content, user'id and server name along with server invite link, this data is only used for improvement and only selected few have access to this data.
+- **Improve Services**: To understand how users interact with the bot and improve its functionality.
 - **Communication**: To respond to user inquiries and provide support.
 
 ## Data Sharing and Disclosure
