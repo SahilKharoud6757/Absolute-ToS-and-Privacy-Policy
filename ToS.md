@@ -8,17 +8,17 @@ Welcome to Absolute, a Discord bot designed for moderation, management, and util
 
 ## Definitions
 
-> Bot: Refers to the Absolute Discord bot.
-> We/Us/Our: Refers to the developers and maintainers of Absolute.
-> User/You: Refers to the individual or entity using Absolute.
+- Bot: Refers to the Absolute Discord bot.
+- We/Us/Our: Refers to the developers and maintainers of Absolute.
+- User/You: Refers to the individual or entity using Absolute.
 
 ## Use of the Bot
 
 Absolute is intended to assist with moderation, management, and various utility functions within Discord servers. By using the bot, you agree to the following:
 
-> You will not use the bot for any illegal or unauthorized purposes.
-> You will not attempt to exploit or harm the bot, its users, or any associated services.
-> You will comply with all applicable laws and Discord's Terms of Service while using the bot.
+- You will not use the bot for any illegal or unauthorized purposes.
+- You will not attempt to exploit or harm the bot, its users, or any associated services.
+- You will comply with all applicable laws and Discord's Terms of Service while using the bot.
 
 ## Data Collection and Privacy
 
