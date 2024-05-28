@@ -29,7 +29,7 @@ We implement a variety of security measures to ensure the safety of your persona
 ## Your Rights
 
 Depending on your location, you may have the following rights regarding your personal data:
-- **Deletion**: You have the right to request the deletion of your personal data, under certain conditions and on Abolute's team's discretion.
+- **Deletion**: You have the right to request the deletion of your personal data, under certain conditions and on Absolute's team's discretion.
 
 ## Changes to This Privacy Policy
 
