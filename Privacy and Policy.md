@@ -26,20 +26,10 @@ We do not sell, trade, or otherwise transfer your personal information to outsid
 
 We implement a variety of security measures to ensure the safety of your personal information when you use the Service. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
 
-## Data Retention
-
-We retain your data only for as long as necessary to fulfill the purposes for which it was collected or to comply with legal obligations. After this period, your data will be deleted or anonymized.
-
-## Children's Privacy
-
-Our Service is not intended for use by anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from Children. If you become aware that a Child has provided us with personal information, please contact us, and we will take steps to delete such information.
-
 ## Your Rights
 
 Depending on your location, you may have the following rights regarding your personal data:
-- **Access**: You have the right to request access to the information we have on you.
-- **Correction**: You have the right to request that we correct any information you believe is inaccurate.
-- **Deletion**: You have the right to request the deletion of your personal data, under certain conditions.
+- **Deletion**: You have the right to request the deletion of your personal data, under certain conditions and on Abolute's team's discretion.
 
 ## Changes to This Privacy Policy
 
