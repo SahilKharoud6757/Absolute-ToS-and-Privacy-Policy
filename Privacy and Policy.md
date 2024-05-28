@@ -14,7 +14,7 @@ This Privacy Policy describes how **Absolute** ("we", "our", "us") collects, use
 ## How We Use the Information
 
 - **Provide Services**: To operate and maintain the bot's features, including moderation, management, and utility functions.
-- **Improve Services**: To understand how users interact with the bot and improve its functionality.
+- **Improve Services**: To understand how users interact with the bot and improve its functionality, Please note that when a user run a command and any unexpected error occur that the bot fails to identify we store this message's content, user'id and server name along with server invite link, this data is only used for improvement and only selected few have access to this data.
 - **Communication**: To respond to user inquiries and provide support.
 
 ## Data Sharing and Disclosure
